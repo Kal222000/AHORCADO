@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\bin\Debug\net8.0\Ahorcado.exe
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\bin\Debug\net8.0\Ahorcado.deps.json
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\bin\Debug\net8.0\Ahorcado.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\bin\Debug\net8.0\Ahorcado.dll
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\bin\Debug\net8.0\Ahorcado.pdb
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\Ahorcado.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\Ahorcado.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\Ahorcado.dll
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\refint\Ahorcado.dll
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\Ahorcado.pdb
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\Ahorcado.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Codigos-Tercer Semestre\Programacion II\Ahorcado\obj\Debug\net8.0\ref\Ahorcado.dll
